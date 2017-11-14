@@ -1,0 +1,6 @@
+E:\Visual Project\Pets\Pets\bin\Debug\Pets.exe.config
+E:\Visual Project\Pets\Pets\bin\Debug\Pets.exe
+E:\Visual Project\Pets\Pets\bin\Debug\Pets.pdb
+E:\Visual Project\Pets\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+E:\Visual Project\Pets\Pets\obj\Debug\Pets.exe
+E:\Visual Project\Pets\Pets\obj\Debug\Pets.pdb
